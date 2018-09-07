@@ -2,7 +2,6 @@
   "name": "cursor-drop",
   "main": "./lib/cursor-drop",
   "version": "0.0.0",
-  "repository": "https://github.com/ahuth/cursor-drop",
   "description": "Create multiple cursors via the keyboard",
   "keywords": [
     "multiple",
@@ -12,7 +11,7 @@
   "activationCommands": {
     "atom-workspace": "cursor-drop:toggle-anchor"
   },
-  "repository": "https://github.com/atom/cursor-drop",
+  "repository": "https://github.com/ahuth/cursor-drop",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
