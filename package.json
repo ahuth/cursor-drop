@@ -1,7 +1,8 @@
 {
   "name": "cursor-drop",
   "main": "./lib/cursor-drop",
-  "version": "0.1.0",
+  "version": "0.0.0",
+  "repository": "https://github.com/ahuth/cursor-drop",
   "description": "Create multiple cursors via the keyboard",
   "keywords": [
     "multiple",
