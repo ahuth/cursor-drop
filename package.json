@@ -1,7 +1,7 @@
 {
   "name": "cursor-drop",
   "main": "./lib/cursor-drop",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Create multiple cursors via the keyboard",
   "keywords": [
     "multiple",
@@ -16,6 +16,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
