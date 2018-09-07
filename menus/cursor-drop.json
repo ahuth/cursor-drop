@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Cursor Drop",
+          "submenu": [
+            {
+              "label": "Toggle anchor",
+              "command": "cursor-drop:toggle-anchor"
+            },
+            {
+              "label": "Convert anchors to cursors",
+              "command": "cursor-drop:convert-anchors"
+            },
+            {
+              "label": "Cancel",
+              "command": "cursor-drop:cancel"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

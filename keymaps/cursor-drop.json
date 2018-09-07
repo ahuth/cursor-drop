@@ -1,0 +1,7 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-down": "cursor-drop:toggle-anchor",
+    "ctrl-alt-up": "cursor-drop:convert-anchors",
+    "escape": "cursor-drop:cancel"
+  }
+}

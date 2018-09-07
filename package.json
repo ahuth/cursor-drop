@@ -1,0 +1,21 @@
+{
+  "name": "cursor-drop",
+  "main": "./lib/cursor-drop",
+  "version": "0.1.0",
+  "description": "Create multiple cursors via the keyboard",
+  "keywords": [
+    "multiple",
+    "cursors",
+    "keyboard"
+  ],
+  "activationCommands": {
+    "atom-workspace": "cursor-drop:toggle-anchor"
+  },
+  "repository": "https://github.com/atom/cursor-drop",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
