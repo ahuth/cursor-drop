@@ -8,9 +8,6 @@
     "cursors",
     "keyboard"
   ],
-  "activationCommands": {
-    "atom-workspace": "cursor-drop:toggle-anchor"
-  },
   "repository": "https://github.com/ahuth/cursor-drop",
   "license": "MIT",
   "engines": {
